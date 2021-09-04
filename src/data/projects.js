@@ -1,7 +1,7 @@
 const projects = [
   {
     title: "The Kizuna Archive",
-    subtitle: `A website for a Chicago-based commemoration project for the 2011 earthquake and tsunami in Japan, remembering the victims of disaster and documenting the region's recovery`,
+    subtitle: `A website for a Chicago-based commemoration project for the 2011 earthquake and tsunami in Japan, remembering the victims of disaster and documenting the region's recovery.`,
     image:
       "https://res.cloudinary.com/dt5zbnwvr/image/upload/v1626143960/Screen_Shot_2021-07-12_at_9.35.07_PM_wk06lf.png",
     color: "#AAF6B7",
@@ -20,7 +20,7 @@ const projects = [
   {
     title: "Frizzy",
     subtitle:
-      "Collaborated with two teammate to build a responsive, full-stack ice-cream delivery application where ice-cream and parlor data are populated, users can select the products they like for delivery service.",
+      "Collaborated with two teammate to build a responsive, full-stack ice-cream delivery application where ice-cream and parlor data are populated. You can select the products and coupons to add to cart. Ice-cream will be delivered soon.",
     image:
       "https://res.cloudinary.com/dt5zbnwvr/image/upload/v1630723243/Screen_Shot_2021-09-03_at_9.40.30_PM_olvm5v.png",
     color: "#F6AAC3",
