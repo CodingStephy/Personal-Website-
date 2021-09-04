@@ -1,0 +1,17 @@
+* {
+  font-family: "Comfortaa", sans-serif;
+}
+
+.great-vibes,
+.great-vibes * {
+  font-family: "Great Vibes", "Comfortaa", sans-serif;
+}
+
+.righteous,
+.righteous * {
+  font-family: "Righteous", "Comfortaa", sans-serif;
+}
+
+header {
+  transition: all 0.3s;
+}
