@@ -41,8 +41,10 @@ const About = () => {
                 <p>
                   Although coming from a humanities-focused background, I have
                   always been passionate about technologies and hope to explore
-                  the intersection of technology, humanities and art. So I am
-                  now learning to code and training to be a front-end web developer & UI designer.
+                  the intersection of technology, humanities and art. <br></br>
+                  <br></br>
+                  Therefore, I am learning to code and training to be a Front-end web developer & Product designer.<br></br>
+                  <br></br>
                   If you would like to learn more about me, please follow me on
                   my journey...
                 </p>

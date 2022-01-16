@@ -56,9 +56,21 @@ const skills = [
     percentage: 60,
   },
   {
-    name: "Figma",
+    name: "Django",
+    percentage: 90,
+  },
+  {
+    name: "Flask",
     percentage: 80,
   },
+  {
+    name: "Figma",
+    percentage: 90,
+  },
+  {
+    name: "Sketch",
+    percentage: 80,
+  }
 ];
 
 export default skills;
